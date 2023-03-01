@@ -7,4 +7,10 @@ The Login Page <br>
 The Main Messaging Platform <br>
 <img width="754" alt="ss2" src="https://user-images.githubusercontent.com/67022574/222291890-7b5502d5-29d5-464c-b254-f25fd8fbe1ef.png">
 
+__Tools & Technologies__ <br /> <br /> 
+HTML<br /> 
+Tailwind CSS <br /> 
+JavaScript <br /> 
+React <br />
+Firebase <br /> 
 
